@@ -1,0 +1,6 @@
+0	adidas		germany
+1	nike		usa
+2	puma		germany
+3	zara		spain
+4	reserved	poland
+
